@@ -1,5 +1,5 @@
 # Results
-This section visualizes and discusses the results of the k-means clustering analysis identifying different weather patterns for a weather station in San Diego, CA. The elbowplot discussed in the previous section is shown first.  Then we plot and discuss several charts showing cluster centers for the optimal number of clusters to identify distinct weather patterns.
+This section visualizes and discusses the results of the k-means clustering analysis identifying distinct weather patterns for a weather station in San Diego, CA. The elbowplot discussed in the previous section is shown first.  Then we plot and discuss several charts showing cluster centers for the optimal number of clusters to identify distinct weather patterns.
 
 The analysis is discussed in the [previous section](https://eagronin.github.io/weather-clustering-spark-analyze/).
 
