@@ -1,7 +1,16 @@
 # Results
+
+## Overview
+
 This section visualizes and discusses the results of the k-means clustering analysis identifying distinct weather patterns for a weather station in San Diego, CA. The elbowplot discussed in the previous section is shown first.  Then we plot and discuss several charts showing cluster centers for the optimal number of clusters to identify distinct weather patterns.
 
 The analysis is discussed in the [previous section](https://eagronin.github.io/weather-clustering-spark-analyze/).
+
+This project is based on assignments from Machine Learning With Big Data by University of California San Diego on Coursera.
+
+The analysis for this project was performed in Spark.
+
+## Results and Discussion
 
 Let's first plot the elbowplot by calling elbow_plot() function described in the [previous section](https://eagronin.github.io/weather-clustering-spark-analyze/).
 
